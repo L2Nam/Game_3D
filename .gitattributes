@@ -1,1 +1,2 @@
 Infinity.unitypackage filter=lfs diff=lfs merge=lfs -text
+FutureZoo.unitypackage filter=lfs diff=lfs merge=lfs -text
